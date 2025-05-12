@@ -4,17 +4,17 @@
   <description asmv2:publisher="Tahto" asmv2:product="Automatizações" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <deployment install="true" />
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
-    <framework targetVersion="4.0" profile="Full" supportedRuntime="4.0.30319" />
+    <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\AutomatizacoesLauncher_2_0_0_0\AutomatizacoesLauncher.exe.manifest" size="18139">
+    <dependentAssembly dependencyType="install" codebase="Application Files\AutomatizacoesLauncher_2_0_0_0\AutomatizacoesLauncher.exe.manifest" size="43763">
       <assemblyIdentity name="AutomatizacoesLauncher.exe" version="2.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>MTKtrRJ7mzFffnCrd21VeueG2Ug=</dsig:DigestValue>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>aqcSYk+6DqoyjmxqySlYjfXBTRg5i0qaLGQuTl55aLA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
