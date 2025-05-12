@@ -7,14 +7,14 @@
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\AutoUpdater_1_0_0_3\AutoUpdater.exe.manifest" size="38046">
+    <dependentAssembly dependencyType="install" codebase="AutoUpdater.exe.manifest" size="39225">
       <assemblyIdentity name="AutoUpdater.exe" version="1.0.0.3" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>o8l6wsD9zGnEclSiazN5wznsfLHJ6QWo9ZSzH94y/HI=</dsig:DigestValue>
+        <dsig:DigestValue>AZccxLPGTJU85FkCTmOo67+rYHg85pk9UgZJoDboP2Q=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

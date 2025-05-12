@@ -62,7 +62,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>As4IBlEbnw8K/Irsa1ohGCjaK36I4URRil+NNLOp4aE=</dsig:DigestValue>
+        <dsig:DigestValue>SJKeb5o+jSZzqydpg6NZBkaqpJfadx1sNjSyonUpnbc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -86,7 +86,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>FC/fnFm7UFYXpuKHcT1ad52c6UQXp3EgCwqzPiDwAAI=</dsig:DigestValue>
+        <dsig:DigestValue>ppC4wcqxxVX+YCwQDtdEEQhNn154MgmlqqRkZNHjMpI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -98,7 +98,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>pIS+OiswK2X5xdUCy+F4uMr8ojfC2D6FWHRxnt3nylQ=</dsig:DigestValue>
+        <dsig:DigestValue>BQW5uXETFNpxKbEGDotsOkoYRkVfpehH4GTVXtWDp3c=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -122,7 +122,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>PgvQYJPjd76q0dyHHAKCo8mk7S0ggSbMjUr6nJgb2H8=</dsig:DigestValue>
+        <dsig:DigestValue>pZRnpwXy478SZMZUEuKKFGTWfztdgegRayEFvtn78rY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -134,7 +134,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>6bpbHqJRgYuE/Y7OvB/WiHGQRBGZfePiYP3udWbvVg4=</dsig:DigestValue>
+        <dsig:DigestValue>9QXuJenF4w+2Z/E7HeNDosDir46JCxSG2EvVa8x2r4U=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -595,18 +595,6 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NHibernate.dll" size="3359232">
-      <assemblyIdentity name="NHibernate" version="4.1.0.4000" publicKeyToken="AA95F207798DFDB4" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>3X5YH8hU7E1PQW/JGwHp9f0W98lCcd2CIvWcT/EeKVg=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Oracle.ManagedDataAccess.dll" size="4930048">
       <assemblyIdentity name="Oracle.ManagedDataAccess" version="4.122.1.0" publicKeyToken="89B483F429C47342" language="neutral" processorArchitecture="msil" />
       <hash>
@@ -766,6 +754,33 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>yfOIZ/Na7TG6iSZD6L684rhLSC6/n8UfP+DuMQh0VvQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="curl.exe" size="3529832">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>5zc/hEsLWhA+194InMw4ZFG83JI4MUve0Uq5QAwk8XE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="curl-ca-bundle.crt" size="233263">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>UKYnfsaRE/AMX9RfCei5eks+MtqjXTqVqzATelU4bO8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="libcurl.dll" size="3078248">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>IaGROawiRd1kCCiYFnqgzCLLKE/mHLbWUzyCAi5y1OA=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">

@@ -7,14 +7,14 @@
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\AutomatizacoesLauncher_2_0_0_0\AutomatizacoesLauncher.exe.manifest" size="43763">
+    <dependentAssembly dependencyType="install" codebase="AutomatizacoesLauncher.exe.manifest" size="44265">
       <assemblyIdentity name="AutomatizacoesLauncher.exe" version="2.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>aqcSYk+6DqoyjmxqySlYjfXBTRg5i0qaLGQuTl55aLA=</dsig:DigestValue>
+        <dsig:DigestValue>9QScrJ2RcePb4eOwmACC1ysweZEpqdZyMcFTWDYoodU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

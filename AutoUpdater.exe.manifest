@@ -62,7 +62,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ot4GYXz1+QO0LkvhvBuPvJAjsMgVS2pji0MtuBKdiJw=</dsig:DigestValue>
+        <dsig:DigestValue>BQW5uXETFNpxKbEGDotsOkoYRkVfpehH4GTVXtWDp3c=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -74,7 +74,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>744ux5EgAsGLwfAbp0odaTrFZn3sJmwSePYzDaTobO0=</dsig:DigestValue>
+        <dsig:DigestValue>mLK9tzvY4Qrr86+ign3lBUTa3kSEUNox2sn5ChImBQY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -86,7 +86,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>QjVd5/W9AtvgXZHPmTmCGcJUzT7UbNFUIoTXw0a+yTE=</dsig:DigestValue>
+        <dsig:DigestValue>Ao8DLfWYTqnBG3qegg4X1kYzqg0g/VWcsLiIbwrj87k=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -651,13 +651,40 @@
       <dsig:DigestValue>FCI+jtqRzpkVhmDjpie6+sFBBZ+2Weoaj3OikIX6bf0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="AutoUpdater.exe.config" size="2336">
+  <file name="AutoUpdater.exe.config" size="3206">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>/pna0Tr+fvdcQpHFpTtuBaVpZwS7Y1jBZ5wBTqBl9iE=</dsig:DigestValue>
+      <dsig:DigestValue>6ANc+kUvmdwkALIeDhiVmz2rEtG8/OKWy3xl9kSCn+E=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="curl.exe" size="3529832">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>5zc/hEsLWhA+194InMw4ZFG83JI4MUve0Uq5QAwk8XE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="curl-ca-bundle.crt" size="233263">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>UKYnfsaRE/AMX9RfCei5eks+MtqjXTqVqzATelU4bO8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="libcurl.dll" size="3078248">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>IaGROawiRd1kCCiYFnqgzCLLKE/mHLbWUzyCAi5y1OA=</dsig:DigestValue>
     </hash>
   </file>
   <file name="system_software_update.ico" size="67646">
