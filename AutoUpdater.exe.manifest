@@ -62,7 +62,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>BQW5uXETFNpxKbEGDotsOkoYRkVfpehH4GTVXtWDp3c=</dsig:DigestValue>
+        <dsig:DigestValue>cPjXUnVWfpVxJORTITe2Ve5FosRMm8nNXToUooTaSV0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -74,7 +74,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>mLK9tzvY4Qrr86+ign3lBUTa3kSEUNox2sn5ChImBQY=</dsig:DigestValue>
+        <dsig:DigestValue>Zor0BMrbnYHn70qgiXtAPFXifLHeDi6bGuThSR9abFU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -86,7 +86,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Ao8DLfWYTqnBG3qegg4X1kYzqg0g/VWcsLiIbwrj87k=</dsig:DigestValue>
+        <dsig:DigestValue>0EPzMOdSVPSzudSAmBbv7LxcRF+EfBbUW1p9cKbrfSY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -344,13 +344,13 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Infra.Application.dll" size="26624">
-      <assemblyIdentity name="Infra.Application" version="3.0.0.15" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="Infra.Application" version="3.0.0.14" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>nN+LuVVLEqmwCPUEUzlwAP7+maEQrKhZRtlYeIGeK3I=</dsig:DigestValue>
+        <dsig:DigestValue>YQbUUDAap05g0Slxj2pchMLAp1Aai5EUeW8xSBBdwYM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -452,13 +452,13 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Infra.Persistence.dll" size="33792">
-      <assemblyIdentity name="Infra.Persistence" version="3.0.0.10" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="Infra.Persistence" version="3.0.0.9" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>mdH6ox+m3knun0eUDIPLCSfwCYV3xd9ixnkyAce1N5g=</dsig:DigestValue>
+        <dsig:DigestValue>wHjxoSYVwni75B1DjlKfAUIQ/+Z0eLi5byOO40EyMwM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -535,14 +535,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SimpleInjector.dll" size="397824">
-      <assemblyIdentity name="SimpleInjector" version="3.3.2.0" publicKeyToken="984CB50DEA722E99" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SimpleInjector.dll" size="445440">
+      <assemblyIdentity name="SimpleInjector" version="4.10.2.0" publicKeyToken="984CB50DEA722E99" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>l+4S8+NjDOayy66RjKU4y0aBPrX3Eq94MLv/UQ3qhCc=</dsig:DigestValue>
+        <dsig:DigestValue>52/6ll57dOZRoKOaYjNPFQjI2w7nI5cpIs8w0JwFuKw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -651,13 +651,13 @@
       <dsig:DigestValue>FCI+jtqRzpkVhmDjpie6+sFBBZ+2Weoaj3OikIX6bf0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="AutoUpdater.exe.config" size="3206">
+  <file name="AutoUpdater.exe.config" size="3208">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>6ANc+kUvmdwkALIeDhiVmz2rEtG8/OKWy3xl9kSCn+E=</dsig:DigestValue>
+      <dsig:DigestValue>O+uffScMJh+nDay0HxMY80fgi0+djQUFpvQMsPWgLQk=</dsig:DigestValue>
     </hash>
   </file>
   <file name="curl.exe" size="3529832">
